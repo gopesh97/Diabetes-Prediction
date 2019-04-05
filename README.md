@@ -6,8 +6,9 @@ It uses 8 body related features for prediction.
 
 The model is saved as dia.joblib using the model-train-save.py , and is used in product.py for prediction.
 
-**Packages required**
-  1. Sklearn  
-  2.numpy  
-  3.pandas  
-  4.joblib  
+**Packages required**  
+
+1.Sklearn  
+2.numpy  
+3.pandas  
+4.joblib  
